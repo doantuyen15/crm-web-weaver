@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.f19ca4a4.css",
-    "main.js": "/static/js/main.d5231bf1.js",
+    "main.js": "/static/js/main.aac3aedc.js",
     "static/media/we_logo_light.png": "/static/media/we_logo_light.b073380de653ab45b9b0.png",
     "static/media/we_logo_dark.png": "/static/media/we_logo_dark.7cf42453a7fc3ec925b0.png",
     "static/media/report_score.docx": "/static/media/report_score.538774995d6aa43bcc81.docx",
@@ -13,6 +13,6 @@
   },
   "entrypoints": [
     "static/css/main.f19ca4a4.css",
-    "static/js/main.d5231bf1.js"
+    "static/js/main.aac3aedc.js"
   ]
 }
